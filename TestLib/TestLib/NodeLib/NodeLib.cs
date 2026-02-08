@@ -1,7 +1,7 @@
-namespace Test.NodeLib;
+namespace TestLib.NodeLib;
 using Unit4.CollectionsLib;
 
-public class NodeFuncs
+public class NodeLib
 {
     public static void Set_By_Index_Node<T>(Node<T> chain, int index, T newValue)
     {

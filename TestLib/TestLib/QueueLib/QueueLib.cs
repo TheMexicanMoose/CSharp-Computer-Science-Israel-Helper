@@ -1,11 +1,7 @@
-namespace Test.QueueLib;
+namespace TestLib.QueueLib;
 using Unit4.CollectionsLib;
 
-/// <summary>
-/// Utility functions for working with Queue&lt;T&gt;.
-/// All methods preserve the original queue content.
-/// </summary>
-public class QueueFuncs
+public class QueueLib
 {
     /// <summary>
     /// Returns the element at the given index in the queue.
