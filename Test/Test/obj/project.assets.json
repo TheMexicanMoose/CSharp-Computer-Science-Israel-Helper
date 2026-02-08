@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\RiderProjects\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\GitHub\\C-Comp-Science-Israel-Helper-\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Owner\\RiderProjects\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Owner\\GitHub\\C-Comp-Science-Israel-Helper-\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\RiderProjects\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\GitHub\\C-Comp-Science-Israel-Helper-\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
